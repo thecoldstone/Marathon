@@ -1,1 +1,8 @@
-# numpy_statistics
+# Statistics with Numpy
+
+## Dependencies
+```
+numpy
+matplotlib
+seaborn
+```
